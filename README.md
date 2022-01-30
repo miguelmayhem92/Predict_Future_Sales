@@ -9,3 +9,7 @@ this repository corresponds to the kaggle challenge: https://www.kaggle.com/c/co
 * Exploratory Data Analysis 
 * Feature enginering 1 and modeling 1
 * Feature enginering 1 and modeling 1
+* Exploratory Data Analysis 2 Feature enginering 2
+* Feature enginering 2 and modeling 2
+* Cross Validation
+* Final prediction
